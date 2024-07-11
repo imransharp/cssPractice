@@ -1,1 +1,2 @@
 # cssPractice
+css applying
